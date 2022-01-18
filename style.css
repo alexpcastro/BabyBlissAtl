@@ -1,0 +1,45 @@
+/*
+Theme Name: Baby Bliss
+Theme URI: https://babyblissatl.com
+Author: APCTG
+Author URI: https://apctg.com
+Description: Baby Bliss ATL website design.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: babybliss
+Tags: bootstrap
+*/
+.bg-light-blue {
+	background-color: #d5e3ee !important;
+}
+.bg-light-pink {
+	background-color: #f3e9e0 !important;
+}
+.bg-light-yellow {
+	background-color: #f6f6d8 !important;
+}
+.bg-light-green {
+	background-color: #c7ecc6 !important;
+}
+.bg-dark-blue {
+    background-color: #468bfc !important;
+}
+.bg-dark-purple {
+	background-color: #824399 !important;
+}
+@media(max-width:767px){
+	.flex-slide::-webkit-scrollbar {
+		width:0;
+		background: 0;
+	}
+	.flex-slide {
+	    -ms-flex-wrap: nowrap!important;
+	    flex-wrap: nowrap!important;
+	    overflow-x: auto;
+	    -webkit-overflow-scrolling: touch;
+	}
+	.display-2 {
+		font-size: 3rem !important;
+	}
+}

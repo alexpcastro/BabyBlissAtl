@@ -1,0 +1,5 @@
+[05-Jun-2020 21:21:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xtremese/public_html/alexpcastro/wp-content/themes/babybliss/index.php on line 1
+[05-Jun-2020 21:21:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xtremese/public_html/alexpcastro/wp-content/themes/babybliss/index.php on line 1
+[05-Jun-2020 21:22:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xtremese/public_html/alexpcastro/wp-content/themes/babybliss/index.php on line 1
+[05-Jun-2020 21:22:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xtremese/public_html/alexpcastro/wp-content/themes/babybliss/index.php on line 1
+[05-Jun-2020 21:29:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xtremese/public_html/alexpcastro/wp-content/themes/babybliss/index.php on line 1
